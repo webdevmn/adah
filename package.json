@@ -1,0 +1,23 @@
+{
+  "name": "adah",
+  "version": "0.0.1",
+  "description": "A proof-of-concept nodejs CMS of sorts.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevmn/adah.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/webdevmn/adah/issues"
+  },
+  "homepage": "https://github.com/webdevmn/adah#readme"
+}
